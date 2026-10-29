@@ -33,3 +33,8 @@ https://www.gw-openscience.org/eventapi/json/GWTC-5.0/
 ## Author
 tiny1813 - Hong Kong
 Theory: Lau 14.26% geometric factor
+
+
+![Lau Correction V=0.9797](gwtc_lau_chart.png)
+
+GW250120_042414: p_astro 0.30 -> 0.84 with V=0.9797 correction
